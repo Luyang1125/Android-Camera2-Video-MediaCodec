@@ -1,1 +1,3 @@
-# android-Camera2Video-MediaCodec
+# Android-Camera2Video-MediaCodec
+
+Android MediaCodec with Camera2
